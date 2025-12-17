@@ -1,7 +1,7 @@
 # The Site Configuration
 
 # Import the theme
-theme: jekyll-theme-chirpy
+theme:jekyll-theme-chirpy
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Emily Ateng # the main title
+title:Emily Ateng # the main title
 
 tagline:Cybersecurity Enthusiast | Pentester | CTF Player | Records Officer # it will display as the subtitle
 
@@ -23,13 +23,13 @@ description: >- # "My journey and projects in Cybersecurity,Pentesting and Data 
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://Emilyateng.github.io/"
+url:"https://emilyateng.github.io/"
 
 github:
-  username: Emilyateng # change to your GitHub username
+  username:Emilyateng # change to your GitHub username
 
 twitter:
-  username: emily_ateng # change to your Twitter username
+  username:emily_ateng # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -39,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/emily_ateng # change to your Twitter homepage
-    -https://github.com/Emilyateng # change to your GitHub homepage
+    -https://github.com/emilyateng # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/Emilyateng #
