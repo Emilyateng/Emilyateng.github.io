@@ -1,8 +1,10 @@
 ---
-# the default layout is 'page'
+# title :About
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, I'm "Emily Ateng",a Cybersecurity Enthusiast and a Pentester.
+-skilled in Network $ Web  App Security
+passionate about CTFs.
+Building  a safer Cyberspace through awareness and research.
