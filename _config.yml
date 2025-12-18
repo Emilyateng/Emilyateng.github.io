@@ -16,7 +16,7 @@ timezone:
 
 title:Emily Ateng # the main title
 
-tagline:Cybersecurity Enthusiast | Pentester | CTF Player | Records Officer # it will display as the subtitle
+tagline:Cybersecurity Enthusiast,Pentester,CTF Player,Records Officer # it will display as the subtitle
 
 description: >- #"My journey and projects in Cybersecurity,Pentesting and Data Clerk"
 
