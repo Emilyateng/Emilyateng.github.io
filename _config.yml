@@ -1,7 +1,7 @@
 # The Site Configuration
 
 # Import the theme
-theme:jekyll-theme-chirpy
+theme: jekyll-theme-chirpy
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -14,28 +14,28 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title:Emily Ateng # the main title
+title: Emily Ateng # the main title
 
-tagline:Cybersecurity Enthusiast,Pentester,CTF Player,Records Officer # it will display as the subtitle
+tagline: Cybersecurity Enthusiast,Pentester,CTF Player,Records Officer # it will display as the subtitle
 
 description: >- #"My journey and projects in Cybersecurity,Pentesting and Data Clerk"
 
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url:"https://emilyateng.github.io/"
+url: "https://emilyateng.github.io/"
 
 github:
-  username:Emilyateng # change to your GitHub username
+  username :Emilyateng # change to your GitHub username
 
 twitter:
-  username:emily_ateng # change to your Twitter username
+  username: emily_ateng # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name:Emily Ateng
-  email:emilyateng9@gmail.com # change to your email address
+  name: Emily Ateng
+  email: emilyateng9@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/emily_ateng # change to your Twitter homepage
